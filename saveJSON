@@ -1,0 +1,5620 @@
+{
+	"letters" : {
+	"д" : "D",
+	"б" : "B",
+	"у" : "U",
+	"н" : "П",
+	"э" : "Ɛ",
+	"р" : "R",
+	"п" : "P",
+	"м" : "M",
+	"т" : "T",
+	"ф" : "F",
+	"в" : "V",
+	"х" : "H",
+	"к" : "K",
+	"ъ" : "Ъ",
+	"г" : "G",
+	"й" : "Y",
+	"я" : "A.",
+	"е" : "Ɛ.",
+	"ш" : "Ш",
+	"ж" : "Ж",
+	"з" : "Z",
+	"ы" : "Ы",
+	"а" : "A",
+	"о" : "O",
+	"л" : "L",
+	"с" : "S",
+	"и" : "Ы.",
+	"ю" : "У.",
+	"ё" : "О."
+},
+	"symbols" : {
+	"text" : {
+	"quote" : "!",
+	"sentenceStart" : "/",
+	"letterConnector" : "|",
+	"wordSymbols" : "ёйукенгшзхъфывапролджэясмитбю+)(0123456789"
+},
+	"translation" : {
+	"quote" : "\"",
+	"letterConnector" : "",
+	"wordSymbols" : "a-zA-Zа-яёА-ЯЁ0-9\\-'"
+},
+	"spelling" : {
+	"quote" : "!",
+	"sentenceStart" : "/",
+	"letterConnector" : "|",
+	"wordSymbols" : "A-ZА-ЯЁƐ."
+},
+	"props" : {
+	"quote" : "!",
+	"sentenceStart" : "/",
+	"letterConnector" : "|",
+	"wordSymbols" : "ёйукенгшзхъфывапролджэясмитбю;"
+}
+},
+	"words" : [
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"heat",
+	"warmth"
+],
+	"rus" : [
+	"теплота"
+]
+},
+	"text" : "хот",
+	"type" : "new",
+	"id" : 0
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"good",
+	"boon"
+],
+	"rus" : [
+	"благо"
+]
+},
+	"text" : "гуд",
+	"type" : "new",
+	"id" : 1
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"make",
+	"do"
+],
+	"rus" : [
+	"делать"
+]
+},
+	"text" : "мэк",
+	"type" : "new",
+	"id" : 2
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"room"
+],
+	"rus" : [
+	"комната",
+	"помещение"
+]
+},
+	"text" : "рум",
+	"type" : "new",
+	"id" : 3
+},
+	{
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"doer"
+],
+	"rus" : [
+	"деятель"
+]
+},
+	"text" : "ер",
+	"type" : "new",
+	"id" : 4
+},
+	{
+	"partOfSpeech" : "пар",
+	"translations" : {
+	"eng" : [
+	"anti-"
+],
+	"rus" : [
+	"анти-"
+]
+},
+	"text" : "ит",
+	"type" : "new",
+	"id" : 5
+},
+	{
+	"partOfSpeech" : "пар",
+	"translations" : {
+	"eng" : [
+	"not"
+],
+	"rus" : [
+	"не"
+]
+},
+	"text" : "не",
+	"type" : "new",
+	"id" : 6
+},
+	{
+	"partOfSpeech" : "пар",
+	"translations" : {
+	"eng" : [
+	"a-"
+],
+	"rus" : [
+	"а-"
+]
+},
+	"text" : "ал",
+	"type" : "new",
+	"id" : 7
+},
+	{
+	"partOfSpeech" : "нан",
+	"gender" : "дэ",
+	"translations" : {
+	"rus" : [
+	"самец"
+]
+},
+	"text" : "дэ",
+	"type" : "new",
+	"id" : 8
+},
+	{
+	"partOfSpeech" : "нан",
+	"gender" : "мо",
+	"translations" : {
+	"rus" : [
+	"самка"
+]
+},
+	"text" : "мо",
+	"type" : "new",
+	"id" : 9
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'0'"
+],
+	"eng" : [
+	"zero"
+],
+	"rus" : [
+	"ноль"
+]
+},
+	"text" : "зи",
+	"type" : "new",
+	"id" : 10
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'1'"
+],
+	"eng" : [
+	"one"
+],
+	"rus" : [
+	"один"
+]
+},
+	"text" : "ви",
+	"type" : "new",
+	"id" : 11
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'2'"
+],
+	"eng" : [
+	"two"
+],
+	"rus" : [
+	"два"
+]
+},
+	"text" : "ди",
+	"type" : "new",
+	"id" : 12
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'3'"
+],
+	"eng" : [
+	"three"
+],
+	"rus" : [
+	"три"
+]
+},
+	"text" : "си",
+	"type" : "new",
+	"id" : 13
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'4'"
+],
+	"eng" : [
+	"four"
+],
+	"rus" : [
+	"четыре"
+]
+},
+	"text" : "фю",
+	"type" : "new",
+	"id" : 14
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'5'"
+],
+	"eng" : [
+	"five"
+],
+	"rus" : [
+	"пять"
+]
+},
+	"text" : "тю",
+	"type" : "new",
+	"id" : 15
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'6'"
+],
+	"eng" : [
+	"six"
+],
+	"rus" : [
+	"шесть"
+]
+},
+	"text" : "бю",
+	"type" : "new",
+	"id" : 16
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'7'"
+],
+	"eng" : [
+	"seven"
+],
+	"rus" : [
+	"семь"
+]
+},
+	"text" : "гю",
+	"type" : "new",
+	"id" : 17
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'8'"
+],
+	"eng" : [
+	"eight"
+],
+	"rus" : [
+	"восемь"
+]
+},
+	"text" : "же",
+	"type" : "new",
+	"id" : 18
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'9'"
+],
+	"eng" : [
+	"nine"
+],
+	"rus" : [
+	"девять"
+]
+},
+	"text" : "пе",
+	"type" : "new",
+	"id" : 19
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'10'"
+],
+	"eng" : [
+	"ten"
+],
+	"rus" : [
+	"десять"
+]
+},
+	"text" : "ке",
+	"type" : "new",
+	"id" : 20
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "диг",
+	"translations" : {
+	"uni" : [
+	"'11'"
+],
+	"eng" : [
+	"eleven"
+],
+	"rus" : [
+	"одиннадцать"
+]
+},
+	"text" : "ше",
+	"type" : "new",
+	"id" : 21
+},
+	{
+	"id" : 22,
+	"text" : "до",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"child"
+],
+	"rus" : [
+	"ребенок"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 23,
+	"text" : "па",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"parent"
+],
+	"rus" : [
+	"родитель"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 24,
+	"text" : "хю",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"human"
+],
+	"rus" : [
+	"человек"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 25,
+	"text" : "кат",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"cat"
+],
+	"rus" : [
+	"кот"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 26,
+	"text" : "дог",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"dog"
+],
+	"rus" : [
+	"собака"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 27,
+	"text" : "эпл",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"apple"
+],
+	"rus" : [
+	"яблоко"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 28,
+	"text" : "пир",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"pear"
+],
+	"rus" : [
+	"груша"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 29,
+	"text" : "бэн",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"banana"
+],
+	"rus" : [
+	"банан"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 30,
+	"text" : "рэж",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"orange"
+],
+	"rus" : [
+	"апельсин"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 31,
+	"text" : "год",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"year"
+],
+	"rus" : [
+	"год"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 32,
+	"text" : "мин",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"minute"
+],
+	"rus" : [
+	"минута"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 33,
+	"text" : "сек",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"second"
+],
+	"rus" : [
+	"секунда"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 34,
+	"text" : "ман",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"month"
+],
+	"rus" : [
+	"месяц"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 35,
+	"text" : "вик",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"week"
+],
+	"rus" : [
+	"неделя"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 36,
+	"text" : "хав",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"hour"
+],
+	"rus" : [
+	"час"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 37,
+	"text" : "ден",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"day"
+],
+	"rus" : [
+	"день"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 38,
+	"text" : "ий",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"rus" : [
+	"-ный/-мый"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 39,
+	"text" : "ве",
+	"partOfSpeech" : "адв",
+	"translations" : {
+	"eng" : [
+	"very"
+],
+	"rus" : [
+	"очень"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 40,
+	"text" : "хом",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"home"
+],
+	"rus" : [
+	"дом"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 41,
+	"text" : "саз",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"size"
+],
+	"rus" : [
+	"размер"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 42,
+	"text" : "хэт",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"height"
+],
+	"rus" : [
+	"высота"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 43,
+	"text" : "лон",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"length"
+],
+	"rus" : [
+	"длина"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 44,
+	"text" : "вив",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"width"
+],
+	"rus" : [
+	"ширина"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 45,
+	"text" : "сид",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"speed"
+],
+	"rus" : [
+	"скорость"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 46,
+	"text" : "там",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"time"
+],
+	"rus" : [
+	"время"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 47,
+	"text" : "дат",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"date"
+],
+	"rus" : [
+	"дата"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 48,
+	"text" : "рем",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"time of day"
+],
+	"rus" : [
+	"время дня"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 49,
+	"text" : "бор",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"born"
+],
+	"rus" : [
+	"рождение"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 50,
+	"text" : "?",
+	"partOfSpeech" : "?",
+	"translations" : {
+	"rus" : [
+	"?"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 51,
+	"text" : "лив",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"life"
+],
+	"rus" : [
+	"жизнь"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 52,
+	"text" : "бо",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"object"
+],
+	"rus" : [
+	"объект"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 53,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"reality"
+],
+	"rus" : [
+	"реальность"
+]
+},
+	"text" : "рит",
+	"type" : "new"
+},
+	{
+	"id" : 54,
+	"text" : "би",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"be"
+],
+	"rus" : [
+	"существовать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 55,
+	"text" : "хи",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"he"
+],
+	"rus" : [
+	"оно"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 56,
+	"text" : "ло",
+	"partOfSpeech" : "нан",
+	"gender" : "ло",
+	"translations" : {
+	"rus" : [
+	"бесполое существо"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 57,
+	"text" : "фро",
+	"partOfSpeech" : "нан",
+	"gender" : "фа",
+	"translations" : {
+	"rus" : [
+	"гермофродит"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 58,
+	"text" : "из",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"is"
+],
+	"rus" : [
+	"являться"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 59,
+	"text" : "ми",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"i"
+],
+	"rus" : [
+	"я"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 60,
+	"text" : "эв",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"every"
+],
+	"rus" : [
+	"каждый"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 61,
+	"text" : "эн",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"any"
+],
+	"rus" : [
+	"какой-либо"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 62,
+	"text" : "эл",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"element"
+],
+	"rus" : [
+	"элемент"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 63,
+	"text" : "нам",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"number"
+],
+	"rus" : [
+	"число"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 64,
+	"text" : "диг",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"digit"
+],
+	"rus" : [
+	"цифра"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 65,
+	"text" : "вод",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"word"
+],
+	"rus" : [
+	"слово"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 66,
+	"text" : "лэт",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"letter"
+],
+	"rus" : [
+	"буква"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 67,
+	"text" : "бук",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"book"
+],
+	"rus" : [
+	"книга"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 68,
+	"text" : "хэв",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"have"
+],
+	"rus" : [
+	"обладать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 69,
+	"text" : "и",
+	"partOfSpeech" : "сойуз",
+	"translations" : {
+	"eng" : [
+	"and"
+],
+	"rus" : [
+	"и"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 70,
+	"text" : "но",
+	"partOfSpeech" : "сойуз",
+	"translations" : {
+	"eng" : [
+	"but"
+],
+	"rus" : [
+	"но"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 71,
+	"text" : "на",
+	"partOfSpeech" : "сойуз",
+	"translations" : {
+	"eng" : [
+	"and"
+],
+	"rus" : [
+	"а"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 72,
+	"text" : "вот",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"water"
+],
+	"rus" : [
+	"вода"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 73,
+	"text" : "фар",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"fire"
+],
+	"rus" : [
+	"огонь"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 74,
+	"text" : "фуд",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"food"
+],
+	"rus" : [
+	"еда"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 75,
+	"text" : "юж",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"rus" : [
+	"обычно-как-класс-любой"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 76,
+	"text" : "су",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"this"
+],
+	"rus" : [
+	"этот"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 77,
+	"text" : "ый",
+	"partOfSpeech" : "тис",
+	"translations" : {
+	"eng" : [
+	"-doing"
+],
+	"rus" : [
+	"-ющий"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 78,
+	"text" : "нан",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"noun"
+],
+	"rus" : [
+	"существительное"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 79,
+	"text" : "адж",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"adjective"
+],
+	"rus" : [
+	"прилагательное"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 80,
+	"text" : "вер",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"verb"
+],
+	"rus" : [
+	"глагол"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 81,
+	"text" : "тис",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"participle"
+],
+	"rus" : [
+	"причастие"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 82,
+	"text" : "?",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"?"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 83,
+	"text" : "пар",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"particle"
+],
+	"rus" : [
+	"частица"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 84,
+	"text" : "ес",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"-s"
+],
+	"rus" : [
+	"мн ч"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 85,
+	"text" : "рев",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"beast"
+],
+	"rus" : [
+	"зверь"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 86,
+	"text" : "бёр",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"bird"
+],
+	"rus" : [
+	"птица"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 87,
+	"text" : "зев",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"rus" : [
+	"земноводное"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 88,
+	"text" : "реп",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"rus" : [
+	"рептилия"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 89,
+	"text" : "ним",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"animal"
+],
+	"rus" : [
+	"животное"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 90,
+	"partOfSpeech" : "нан",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"растение"
+]
+},
+	"text" : "лэн",
+	"type" : "new"
+},
+	{
+	"id" : 91,
+	"text" : "муш",
+	"partOfSpeech" : "нан",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"гриб"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 92,
+	"text" : "бэк",
+	"partOfSpeech" : "нан",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"бактерия"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 93,
+	"text" : "вир",
+	"partOfSpeech" : "нан",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"вирус"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 94,
+	"partOfSpeech" : "нан",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"простейшее"
+]
+},
+	"text" : "лем",
+	"type" : "new"
+},
+	{
+	"id" : 95,
+	"text" : "био",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"bio"
+],
+	"rus" : [
+	"биологический"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 96,
+	"text" : "эрго",
+	"partOfSpeech" : "адв",
+	"translations" : {
+	"rus" : [
+	"следовательно"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 97,
+	"text" : "адв",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"adverb"
+],
+	"rus" : [
+	"наречие"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 98,
+	"text" : "нэм",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"name"
+],
+	"rus" : [
+	"имя"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 99,
+	"text" : "собс",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"имя-собственное"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 100,
+	"text" : "хэд",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"head"
+],
+	"rus" : [
+	"голова"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 101,
+	"text" : "пиш",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"speech"
+],
+	"rus" : [
+	"речь"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 102,
+	"text" : "сойюз",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"is"
+],
+	"rus" : [
+	"союз"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 103,
+	"text" : "пок",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"pocket"
+],
+	"rus" : [
+	"карман"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 104,
+	"text" : "ком",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"computer"
+],
+	"rus" : [
+	"компьютер"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 105,
+	"text" : "мун",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"communicator"
+],
+	"rus" : [
+	"коммуникатор"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 106,
+	"text" : "вук",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"audio"
+],
+	"rus" : [
+	"аудио"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 107,
+	"text" : "вид",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"video"
+],
+	"rus" : [
+	"видео"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 108,
+	"text" : "лят",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"translator"
+],
+	"rus" : [
+	"вещатель"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 109,
+	"text" : "тор",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"whose"
+],
+	"rus" : [
+	"который"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 110,
+	"text" : "ты",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"you"
+],
+	"rus" : [
+	"ты"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 111,
+	"text" : "ре",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"dear"
+],
+	"rus" : [
+	"уважать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 112,
+	"text" : "?",
+	"partOfSpeech" : "?",
+	"translations" : {
+	"rus" : [
+	"?"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 113,
+	"text" : "рэ",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"grand"
+],
+	"rus" : [
+	"пра"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 114,
+	"text" : "фил",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"feel"
+],
+	"rus" : [
+	"чувствовать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 115,
+	"text" : "гол",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"angle"
+],
+	"rus" : [
+	"угол"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 116,
+	"text" : "гир",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"figure"
+],
+	"rus" : [
+	"фигура"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 117,
+	"text" : "куб",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"cube"
+],
+	"rus" : [
+	"куб"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 118,
+	"text" : "инф",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"infinity"
+],
+	"rus" : [
+	"бесконечность"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 119,
+	"text" : "фер",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"sphere"
+],
+	"rus" : [
+	"сфера"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 120,
+	"text" : "йа",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"hello"
+],
+	"rus" : [
+	"приветстовать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 121,
+	"text" : "йэ",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"yes"
+],
+	"rus" : [
+	"соглашаться"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 122,
+	"text" : "мир",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"world"
+],
+	"rus" : [
+	"мир"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 123,
+	"text" : "мэс",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"mass"
+],
+	"rus" : [
+	"вес"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 124,
+	"text" : "?",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"?"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 125,
+	"text" : "сол",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"all"
+],
+	"rus" : [
+	"весь"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 126,
+	"text" : "?",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"rus" : [
+	"?"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 127,
+	"text" : "рат",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"write"
+],
+	"rus" : [
+	"писать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 128,
+	"text" : "мом",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"moment"
+],
+	"rus" : [
+	"момент"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 129,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"народ"
+]
+},
+	"text" : "нэш",
+	"type" : "new"
+},
+	{
+	"id" : 130,
+	"text" : "фин",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"think"
+],
+	"rus" : [
+	"думать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 131,
+	"text" : "дид",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"did"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 132,
+	"text" : "вил",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"will"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 133,
+	"text" : "мол",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"small"
+],
+	"rus" : [
+	"маленький"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 134,
+	"text" : "нов",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"know"
+],
+	"rus" : [
+	"знать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 135,
+	"text" : "стих",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"стих"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 136,
+	"text" : "нас",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"nice"
+],
+	"rus" : [
+	"прекрасный"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 137,
+	"text" : "сэф",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"eng" : [
+	"self"
+],
+	"rus" : [
+	"себя"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 138,
+	"text" : "кил",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"kill"
+],
+	"rus" : [
+	"убивать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 139,
+	"text" : "го",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"go"
+],
+	"rus" : [
+	"идти"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 140,
+	"text" : "ту",
+	"partOfSpeech" : "предл",
+	"translations" : {
+	"eng" : [
+	"to"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 141,
+	"text" : "фор",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"forest"
+],
+	"rus" : [
+	"лес"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 142,
+	"text" : "хэз",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"has"
+],
+	"rus" : [
+	"сделать"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 143,
+	"text" : "дун",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"doing"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 144,
+	"text" : "ли",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"eng" : [
+	"sibling"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 145,
+	"text" : "то",
+	"partOfSpeech" : "нан",
+	"gender" : "не",
+	"translations" : {
+	"rus" : [
+	"супруг"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 146,
+	"text" : "оф",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"eng" : [
+	"of"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 147,
+	"text" : "оз",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"eng" : [
+	"'s"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 148,
+	"text" : "пус",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"plus"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 149,
+	"text" : "вал",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"equals"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 150,
+	"text" : "?",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"eng" : [
+	"?"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 151,
+	"text" : "див",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"divide"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 152,
+	"text" : "мул",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"multiply"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 153,
+	"text" : "рут",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"root"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 154,
+	"text" : "пав",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"power"
+]
+},
+	"type" : "new"
+},
+	{
+	"group" : "кол",
+	"id" : 155,
+	"text" : "рэд",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"red-color"
+]
+},
+	"type" : "new"
+},
+	{
+	"group" : "кол",
+	"id" : 156,
+	"text" : "жел",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"yellow-color"
+]
+},
+	"type" : "new"
+},
+	{
+	"group" : "кол",
+	"id" : 157,
+	"text" : "рин",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"green-color"
+]
+},
+	"type" : "new"
+},
+	{
+	"group" : "кол",
+	"id" : 158,
+	"text" : "син",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"blue-color"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 159,
+	"text" : "со",
+	"partOfSpeech" : "пар",
+	"translations" : {
+	"eng" : [
+	"with"
+]
+},
+	"type" : "new"
+},
+	{
+	"id" : 160,
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"main"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мэн",
+	"type" : "new"
+},
+	{
+	"id" : 161,
+	"construction" : "103+104",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"smartphone"
+],
+	"rus" : [
+	"смартфон"
+]
+},
+	"type" : "constructed"
+},
+	{
+	"id" : 162,
+	"construction" : "106+105",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"phone"
+],
+	"rus" : [
+	"телефон"
+]
+},
+	"type" : "constructed"
+},
+	{
+	"id" : 163,
+	"construction" : "107+108",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"TV"
+],
+	"rus" : [
+	"телевизор"
+]
+},
+	"type" : "constructed"
+},
+	{
+	"id" : 164,
+	"construction" : "106+108",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"radio"
+],
+	"rus" : [
+	"радио"
+]
+},
+	"type" : "constructed"
+},
+	{
+	"id" : 165,
+	"construction" : "107+105",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"video-communicator"
+],
+	"rus" : [
+	"видеофон"
+]
+},
+	"type" : "constructed"
+},
+	{
+	"id" : 166,
+	"systematicallyConstruction" : "<собс;;диг>+63",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"uni" : [
+	"'$curtr$'"
+],
+	"rus" : [
+	"$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 167,
+	"systematicallyConstruction" : "<собс;;диг>+12+63",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"uni" : [
+	"''12+$curtr$''"
+],
+	"rus" : [
+	"''двенадцать плюс $curtr$''"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 168,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"36"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 169,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"48"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 170,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"60"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 171,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"72"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 172,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"84"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 173,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"96"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 174,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"108"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 175,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"120"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 176,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"132"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 177,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "нам",
+	"translations" : {
+	"rus" : [
+	"144"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 178,
+	"systematicallyConstruction" : "<нан|нам>+38",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"rus" : [
+	"$curtr$-ный"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 179,
+	"systematicallyConstruction" : "<вер>+77",
+	"partOfSpeech" : "тис",
+	"translations" : {
+	"rus" : [
+	"$curtr$-ющий"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 180,
+	"systematicallyConstruction" : "<нан>+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"$curtr$-s"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 181,
+	"systematicallyConstruction" : "111+38+<нан>",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"уважаемое-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 182,
+	"systematicallyConstruction" : "<вер>+38",
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"rus" : [
+	"$curtr$-мый"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 183,
+	"systematicallyConstruction" : "111+38+<нан>+8",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"уважаемый-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 184,
+	"systematicallyConstruction" : "111+38+<нан>+9",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"уважаемая-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 185,
+	"systematicallyConstruction" : "111+38+<нан>+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"уважаемые-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 186,
+	"systematicallyConstruction" : "111+38+<нан>+8+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"уважаемыйе-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 187,
+	"systematicallyConstruction" : "111+38+<нан>+9+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"уважаемаяе-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 188,
+	"systematicallyConstruction" : "<нан;не>+8",
+	"partOfSpeech" : "нан",
+	"gender" : "да",
+	"translations" : {
+	"rus" : [
+	"$curtr$-мр"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 189,
+	"systematicallyConstruction" : "<нан;не>+9",
+	"partOfSpeech" : "нан",
+	"gender" : "ма",
+	"translations" : {
+	"rus" : [
+	"$curtr$-жр"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 190,
+	"systematicallyConstruction" : "?",
+	"partOfSpeech" : "?",
+	"translations" : {
+	"rus" : [
+	"?"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 191,
+	"systematicallyConstruction" : "<сущ;не>+8+84",
+	"partOfSpeech" : "нан",
+	"gender" : "да",
+	"translations" : {
+	"eng" : [
+	"$curtr$-мр-s"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 192,
+	"systematicallyConstruction" : "<сущ;не>+9+84",
+	"partOfSpeech" : "нан",
+	"gender" : "ма",
+	"translations" : {
+	"eng" : [
+	"$curtr$-жр-s"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 193,
+	"systematicallyConstruction" : "<собс;;диг>+113+10",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-ребенок"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 194,
+	"systematicallyConstruction" : "<собс;;диг>+113+10+8",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-сын"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 195,
+	"systematicallyConstruction" : "<собс;;диг>+113+10+9",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-дочь"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 196,
+	"systematicallyConstruction" : "<собс;;диг>+113+10+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-дети"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 197,
+	"systematicallyConstruction" : "<собс;;диг>+113+10+8+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-сыновья"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 198,
+	"systematicallyConstruction" : "<собс;;диг>+113+10+9+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-дочери"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 199,
+	"systematicallyConstruction" : "<собс;;диг>+113+11",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-родитель"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 200,
+	"systematicallyConstruction" : "<собс;;диг>+113+11+8",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-отец"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 201,
+	"systematicallyConstruction" : "<собс;;диг>+113+11+9",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-мать"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 202,
+	"systematicallyConstruction" : "<собс;;диг>+113+11+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-родители"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 203,
+	"systematicallyConstruction" : "<собс;;диг>+113+11+8+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-отцы"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 204,
+	"systematicallyConstruction" : "<собс;;диг>+113+11+9+84",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"rus" : [
+	"$curtr$*пра-матери"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 205,
+	"systematicallyConstruction" : "<нан>+2",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"make-$curtr$"
+],
+	"rus" : [
+	"делать-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 206,
+	"systematicallyConstruction" : "<нан>+2+4",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"$curtr$-maker"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 207,
+	"systematicallyConstruction" : "<вер>+4",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"$curtr$-er"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 208,
+	"systematicallyConstruction" : "5+<нан|вер|адж|адв|пар|тис>",
+	"translations" : {
+	"eng" : [
+	"anti-$curtr$"
+],
+	"rus" : [
+	"анти-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 209,
+	"systematicallyConstruction" : "7+<нан|вер|адж|адв|пар|тис>",
+	"translations" : {
+	"eng" : [
+	"a-$curtr$"
+],
+	"rus" : [
+	"а-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 210,
+	"systematicallyConstruction" : "<собс;;диг>+115",
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"$curtr$-angle"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 211,
+	"systematicallyConstruction" : "131+<вер>",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"did-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 212,
+	"systematicallyConstruction" : "132+<вер>",
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"will-$curtr$"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 213,
+	"systematicallyConstruction" : "<нан>+147",
+	"partOfSpeech" : "?",
+	"gender" : "?",
+	"translations" : {
+	"eng" : [
+	"$curtr$'s"
+]
+},
+	"type" : "systematically"
+},
+	{
+	"id" : 214,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вин",
+	"type" : "new"
+},
+	{
+	"id" : 215,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"door"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дор",
+	"type" : "new"
+},
+	{
+	"id" : 216,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"color"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кол",
+	"type" : "new"
+},
+	{
+	"group" : "кол",
+	"id" : 217,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"white"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "ват",
+	"type" : "new"
+},
+	{
+	"group" : "кол",
+	"id" : 218,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"black"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лак",
+	"type" : "new"
+},
+	{
+	"id" : 219,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"sound"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сад",
+	"type" : "new"
+},
+	{
+	"id" : 220,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"satellite"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лун",
+	"type" : "new"
+},
+	{
+	"id" : 221,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"planet"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лан",
+	"type" : "new"
+},
+	{
+	"id" : 222,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"star"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тар",
+	"type" : "new"
+},
+	{
+	"id" : 223,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"system"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сис",
+	"type" : "new"
+},
+	{
+	"id" : 224,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"galaxy"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "гал",
+	"type" : "new"
+},
+	{
+	"id" : 225,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"universe"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вёр",
+	"type" : "new"
+},
+	{
+	"id" : 226,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"theory"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тер",
+	"type" : "new"
+},
+	{
+	"id" : 227,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"practice"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рак",
+	"type" : "new"
+},
+	{
+	"id" : 228,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"hypothesis"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "гип",
+	"type" : "new"
+},
+	{
+	"id" : 229,
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"fastfood"
+],
+	"rus" : [
+	"?"
+]
+},
+	"construction" : "45+38+74",
+	"type" : "constructed"
+},
+	{
+	"id" : 230,
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"sell"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сэл",
+	"type" : "new"
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'А'"
+],
+	"rus" : [
+	"название-буквы-'А'"
+]
+},
+	"text" : "ай",
+	"type" : "new",
+	"id" : 231
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Ы'"
+],
+	"rus" : [
+	"название-буквы-'Ы'"
+]
+},
+	"text" : "ый",
+	"type" : "new",
+	"id" : 232
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'У'"
+],
+	"rus" : [
+	"название-буквы-'У'"
+]
+},
+	"text" : "уй",
+	"type" : "new",
+	"id" : 233
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Э'"
+],
+	"rus" : [
+	"название-буквы-'Э'"
+]
+},
+	"text" : "эй",
+	"type" : "new",
+	"id" : 234
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'О'"
+],
+	"rus" : [
+	"название-буквы-'О'"
+]
+},
+	"text" : "ой",
+	"type" : "new",
+	"id" : 235
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'М'"
+],
+	"rus" : [
+	"название-буквы-'М'"
+]
+},
+	"text" : "им",
+	"type" : "new",
+	"id" : 236
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Н'"
+],
+	"rus" : [
+	"название-буквы-'Н'"
+]
+},
+	"text" : "ин",
+	"type" : "new",
+	"id" : 237
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Л'"
+],
+	"rus" : [
+	"название-буквы-'Л'"
+]
+},
+	"text" : "ил",
+	"type" : "new",
+	"id" : 238
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Р'"
+],
+	"rus" : [
+	"название-буквы-'Р'"
+]
+},
+	"text" : "ир",
+	"type" : "new",
+	"id" : 239
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Й'"
+],
+	"rus" : [
+	"название-буквы-'Й'"
+]
+},
+	"text" : "ий",
+	"type" : "new",
+	"id" : 240
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Г'"
+],
+	"rus" : [
+	"название-буквы-'Г'"
+]
+},
+	"text" : "га",
+	"type" : "new",
+	"id" : 241
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Б'"
+],
+	"rus" : [
+	"название-буквы-'Б'"
+]
+},
+	"text" : "ба",
+	"type" : "new",
+	"id" : 242
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Д'"
+],
+	"rus" : [
+	"название-буквы-'Д'"
+]
+},
+	"text" : "да",
+	"type" : "new",
+	"id" : 243
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'К'"
+],
+	"rus" : [
+	"название-буквы-'К'"
+]
+},
+	"text" : "ак",
+	"type" : "new",
+	"id" : 244
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'П'"
+],
+	"rus" : [
+	"название-буквы-'П'"
+]
+},
+	"text" : "ап",
+	"type" : "new",
+	"id" : 245
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Т'"
+],
+	"rus" : [
+	"название-буквы-'Т'"
+]
+},
+	"text" : "ат",
+	"type" : "new",
+	"id" : 246
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Ъ'"
+],
+	"rus" : [
+	"название-буквы-'Ъ'"
+]
+},
+	"text" : "ъэ",
+	"type" : "new",
+	"id" : 247
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'В'"
+],
+	"rus" : [
+	"название-буквы-'В'"
+]
+},
+	"text" : "вэ",
+	"type" : "new",
+	"id" : 248
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'З'"
+],
+	"rus" : [
+	"название-буквы-'З'"
+]
+},
+	"text" : "зэ",
+	"type" : "new",
+	"id" : 249
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Ж'"
+],
+	"rus" : [
+	"название-буквы-'Ж'"
+]
+},
+	"text" : "жэ",
+	"type" : "new",
+	"id" : 250
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Х'"
+],
+	"rus" : [
+	"название-буквы-'Х'"
+]
+},
+	"text" : "эх",
+	"type" : "new",
+	"id" : 251
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Ф'"
+],
+	"rus" : [
+	"название-буквы-'Ф'"
+]
+},
+	"text" : "эф",
+	"type" : "new",
+	"id" : 252
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'С'"
+],
+	"rus" : [
+	"название-буквы-'С'"
+]
+},
+	"text" : "эс",
+	"type" : "new",
+	"id" : 253
+},
+	{
+	"partOfSpeech" : "собс",
+	"group" : "лэт",
+	"translations" : {
+	"eng" : [
+	"the-name-of-the-letter-'Ш'"
+],
+	"rus" : [
+	"название-буквы-'Ш'"
+]
+},
+	"text" : "эш",
+	"type" : "new",
+	"id" : 254
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"run"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "ран",
+	"type" : "new",
+	"id" : 255
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"love"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лав",
+	"type" : "new",
+	"id" : 256
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"fly"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фла",
+	"type" : "new",
+	"id" : 257
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"fall"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фол",
+	"type" : "new",
+	"id" : 258
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"farm"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фам",
+	"type" : "new",
+	"id" : 259
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"slim"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лим",
+	"type" : "new",
+	"id" : 260
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"happy"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хэп",
+	"type" : "new",
+	"id" : 261
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"big"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "биг",
+	"type" : "new",
+	"id" : 262
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"smart"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мар",
+	"type" : "new",
+	"id" : 263
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"kind"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кин",
+	"type" : "new",
+	"id" : 264
+},
+	{
+	"partOfSpeech" : "?",
+	"translations" : {
+	"eng" : [
+	"?"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "?",
+	"type" : "?",
+	"id" : 265
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"strong"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рон",
+	"type" : "new",
+	"id" : 266
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"unlazy"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хар",
+	"type" : "new",
+	"id" : 267
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"brave"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рэв",
+	"type" : "new",
+	"id" : 268
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"teach"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тиш",
+	"type" : "new",
+	"id" : 269
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"take"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тэк",
+	"type" : "new",
+	"id" : 270
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"build"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бид",
+	"type" : "new",
+	"id" : 271
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"read"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рид",
+	"type" : "new",
+	"id" : 272
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"potato"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пот",
+	"type" : "new",
+	"id" : 273
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"tomato"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "том",
+	"type" : "new",
+	"id" : 274
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"corn"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кон",
+	"type" : "new",
+	"id" : 275
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"nut"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "нат",
+	"type" : "new",
+	"id" : 276
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"carrot"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кэр",
+	"type" : "new",
+	"id" : 277
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"cabbage"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кэб",
+	"type" : "new",
+	"id" : 278
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"current"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кур",
+	"type" : "new",
+	"id" : 279
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"meat"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мит",
+	"type" : "new",
+	"id" : 280
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"use"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "уз",
+	"type" : "new",
+	"id" : 281
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"cream"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рим",
+	"type" : "new",
+	"id" : 282
+},
+	{
+	"partOfSpeech" : "адв",
+	"translations" : {
+	"eng" : [
+	"many"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "поли",
+	"type" : "new",
+	"id" : 283
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"honey"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хон",
+	"type" : "new",
+	"id" : 284
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"jam"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "жэм",
+	"type" : "new",
+	"id" : 285
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"meet"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мет",
+	"type" : "new",
+	"id" : 286
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"tooth"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тув",
+	"type" : "new",
+	"id" : 287
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"tail"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тэл",
+	"type" : "new",
+	"id" : 288
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"eye"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лаз",
+	"type" : "new",
+	"id" : 289
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"ear"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "иар",
+	"type" : "new",
+	"id" : 290
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"mouth"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "моф",
+	"type" : "new",
+	"id" : 291
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"nose"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "ноз",
+	"type" : "new",
+	"id" : 292
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"face"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фэс",
+	"type" : "new",
+	"id" : 293
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"neck"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "нэк",
+	"type" : "new",
+	"id" : 294
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"morning"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мон",
+	"type" : "new",
+	"id" : 295
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"afternoon"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дин",
+	"type" : "new",
+	"id" : 296
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"evening"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вен",
+	"type" : "new",
+	"id" : 297
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"healthy"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хил",
+	"type" : "new",
+	"id" : 298
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"elephant"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фэн",
+	"type" : "new",
+	"id" : 299
+},
+	{
+	"partOfSpeech" : "лин",
+	"translations" : {
+	"eng" : [
+	"clean"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вош",
+	"type" : "new",
+	"id" : 300
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"tale"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тал",
+	"type" : "new",
+	"id" : 301
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"come"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кам",
+	"type" : "new",
+	"id" : 302
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"season"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сиз",
+	"type" : "new",
+	"id" : 303
+},
+	{
+	"partOfSpeech" : "адж",
+	"translations" : {
+	"eng" : [
+	"bright"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бат",
+	"type" : "new",
+	"id" : 304
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"right"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рав",
+	"type" : "new",
+	"id" : 305
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"forward"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фод",
+	"type" : "new",
+	"id" : 306
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"top"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "топ",
+	"type" : "new",
+	"id" : 307
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"town"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тав",
+	"type" : "new",
+	"id" : 308
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"country"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кан",
+	"type" : "new",
+	"id" : 309
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"garden"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "гар",
+	"type" : "new",
+	"id" : 310
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"rest"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рес",
+	"type" : "new",
+	"id" : 311
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"party"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пат",
+	"type" : "new",
+	"id" : 312
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"celebrate"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "леб",
+	"type" : "new",
+	"id" : 313
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"time"
+],
+	"rus" : [
+	"раз"
+]
+},
+	"text" : "ра",
+	"type" : "new",
+	"id" : 314
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"favourite"
+],
+	"rus" : [
+	"раз"
+]
+},
+	"text" : "фэв",
+	"type" : "new",
+	"id" : 315
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"catch"
+],
+	"rus" : [
+	"раз"
+]
+},
+	"text" : "кэт",
+	"type" : "new",
+	"id" : 316
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"cross"
+],
+	"rus" : [
+	"раз"
+]
+},
+	"text" : "рос",
+	"type" : "new",
+	"id" : 317
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"chase"
+],
+	"rus" : [
+	"раз"
+]
+},
+	"text" : "шэз",
+	"type" : "new",
+	"id" : 318
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"laugh"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лаф",
+	"type" : "new",
+	"id" : 319
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"path"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "паф",
+	"type" : "new",
+	"id" : 320
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"grass"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рас",
+	"type" : "new",
+	"id" : 321
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"dirt"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дёт",
+	"type" : "new",
+	"id" : 322
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"bin"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бин",
+	"type" : "new",
+	"id" : 323
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"meter"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "метр",
+	"type" : "new",
+	"id" : 324
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"kilogramm"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "гатр",
+	"type" : "new",
+	"id" : 325
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"thousand"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "ки",
+	"type" : "new",
+	"id" : 326
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"play"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пэл",
+	"type" : "new",
+	"id" : 327
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"bed"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бед",
+	"type" : "new",
+	"id" : 328
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"move"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мув",
+	"type" : "new",
+	"id" : 329
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"weather"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вэз",
+	"type" : "new",
+	"id" : 330
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"dive"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дав",
+	"type" : "new",
+	"id" : 331
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"ball"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бол",
+	"type" : "new",
+	"id" : 332
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"bell"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бел",
+	"type" : "new",
+	"id" : 333
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"hall"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хол",
+	"type" : "new",
+	"id" : 334
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"kitchen"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кит",
+	"type" : "new",
+	"id" : 335
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"pantry"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пэн",
+	"type" : "new",
+	"id" : 336
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"bath"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бав",
+	"type" : "new",
+	"id" : 337
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"toilet"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тот",
+	"type" : "new",
+	"id" : 338
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"wall"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вол",
+	"type" : "new",
+	"id" : 339
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"wolf"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вул",
+	"type" : "new",
+	"id" : 340
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"floor"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лор",
+	"type" : "new",
+	"id" : 341
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"chair"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "шэр",
+	"type" : "new",
+	"id" : 342
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"arm"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "арм",
+	"type" : "new",
+	"id" : 343
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"table"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "тэб",
+	"type" : "new",
+	"id" : 344
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"carpet"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кар",
+	"type" : "new",
+	"id" : 345
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"piano"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пин",
+	"type" : "new",
+	"id" : 346
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"lamp"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лэм",
+	"type" : "new",
+	"id" : 347
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"shelf"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "шэл",
+	"type" : "new",
+	"id" : 348
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"sofa"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "соф",
+	"type" : "new",
+	"id" : 349
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"picture"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пик",
+	"type" : "new",
+	"id" : 350
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"direction"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дир",
+	"type" : "new",
+	"id" : 351
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"field"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фид",
+	"type" : "new",
+	"id" : 352
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"cow"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кав",
+	"type" : "new",
+	"id" : 353
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"sheep"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "шип",
+	"type" : "new",
+	"id" : 354
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"ship"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "шып",
+	"type" : "new",
+	"id" : 355
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"horse"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хос",
+	"type" : "new",
+	"id" : 356
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"road"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "род",
+	"type" : "new",
+	"id" : 357
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"hill"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хыл",
+	"type" : "new",
+	"id" : 358
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"bridge"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "риж",
+	"type" : "new",
+	"id" : 359
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"river"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рив",
+	"type" : "new",
+	"id" : 360
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"capital"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кэп",
+	"type" : "new",
+	"id" : 361
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"eagle"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "игл",
+	"type" : "new",
+	"id" : 362
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"dolphin"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дол",
+	"type" : "new",
+	"id" : 363
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"whale"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вэл",
+	"type" : "new",
+	"id" : 364
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"snake"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сэк",
+	"type" : "new",
+	"id" : 365
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"crocodile"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рок",
+	"type" : "new",
+	"id" : 366
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"camel"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кэм",
+	"type" : "new",
+	"id" : 367
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"ocean"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "ошн",
+	"type" : "new",
+	"id" : 368
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"desert"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "дес",
+	"type" : "new",
+	"id" : 369
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"sea"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сиа",
+	"type" : "new",
+	"id" : 370
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"mountains"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мот",
+	"type" : "new",
+	"id" : 371
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"puzzle"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "паз",
+	"type" : "new",
+	"id" : 372
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"riddle"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рил",
+	"type" : "new",
+	"id" : 373
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"watch"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вотш",
+	"type" : "new",
+	"id" : 374
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"hear"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "хир",
+	"type" : "new",
+	"id" : 375
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"lay"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лаж",
+	"type" : "new",
+	"id" : 376
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"answer"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "анс",
+	"type" : "new",
+	"id" : 377
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"call"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "кэл",
+	"type" : "new",
+	"id" : 378
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"repair"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рер",
+	"type" : "new",
+	"id" : 379
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"bike"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "бак",
+	"type" : "new",
+	"id" : 380
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"pet"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пет",
+	"type" : "new",
+	"id" : 381
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"walk"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вок",
+	"type" : "new",
+	"id" : 382
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"polite"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пол",
+	"type" : "new",
+	"id" : 383
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"thunder"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "зан",
+	"type" : "new",
+	"id" : 384
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"shower"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "шав",
+	"type" : "new",
+	"id" : 385
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"rain"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рэн",
+	"type" : "new",
+	"id" : 386
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"snow"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сов",
+	"type" : "new",
+	"id" : 387
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"fog"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "фог",
+	"type" : "new",
+	"id" : 388
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"vacuum"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "вак",
+	"type" : "new",
+	"id" : 389
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"face"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сё",
+	"type" : "new",
+	"id" : 390
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"on"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "он",
+	"type" : "new",
+	"id" : 391
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"sit"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "сит",
+	"type" : "new",
+	"id" : 392
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"above"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "эб",
+	"type" : "new",
+	"id" : 393
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"print"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "пит",
+	"type" : "new",
+	"id" : 394
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"stay"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "таж",
+	"type" : "new",
+	"id" : 395
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"from"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "ром",
+	"type" : "new",
+	"id" : 396
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"jump"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "жап",
+	"type" : "new",
+	"id" : 397
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"protect"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рот",
+	"type" : "new",
+	"id" : 398
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"plasticine"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "лас",
+	"type" : "new",
+	"id" : 399
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"morph"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "мор",
+	"type" : "new",
+	"id" : 400
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"property"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "роп",
+	"type" : "new",
+	"id" : 401
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"program"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "рог",
+	"type" : "new",
+	"id" : 402
+},
+	{
+	"partOfSpeech" : "вер",
+	"translations" : {
+	"eng" : [
+	"change"
+],
+	"rus" : [
+	"?"
+]
+},
+	"text" : "шэн",
+	"type" : "new",
+	"id" : 403
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"peace"
+],
+	"rus" : [
+	"мир"
+]
+},
+	"text" : "пис",
+	"type" : "new",
+	"id" : 404
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"pad"
+],
+	"rus" : [
+	"панель"
+]
+},
+	"text" : "пад",
+	"type" : "new",
+	"id" : 405
+},
+	{
+	"partOfSpeech" : "нан",
+	"translations" : {
+	"eng" : [
+	"key"
+],
+	"rus" : [
+	"ключ"
+]
+},
+	"text" : "люш",
+	"type" : "new",
+	"id" : 406
+}
+]
+}

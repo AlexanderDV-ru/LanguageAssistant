@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>LanguageAssistant</title>
+
+	<style>
+		body {
+			background-color: #333;
+		}
+		textarea {
+			width: 300px;
+			height: 120px;
+		}
+		select {
+			height: 160px;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>
+				<textarea id="wordPropsTextarea"></textarea>
+			</td>
+			<td>
+				<textarea id="wordTranslationsTextarea">{"eng":["?"],"rus":["?"]}</textarea>
+			</td>
+			<td>
+				<input id="wordText"/>
+				<button id="addNewWord">Add new word</button>
+				<br>
+				<input id="wordConstruction"/>
+				<button id="addConstructedWord">Add constructed word</button>
+				<br>
+				<input id="wordSystematicallyConstruction"/>
+				<button id="addSystematicallyWord">Add systematically word</button>
+				<br>
+				<input id="specialWordConstruction"/>
+				<button id="addSpecialWord">Add special word</button>
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<input id="findWordInput"></input>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<select multiple id="wordsSelect"></select>
+			</td>
+			<td>
+				<textarea id="wordInfoTextarea"></textarea>
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<textarea id="sentenceText"></textarea>
+				<textarea id="sentenceTexts"></textarea>
+				<textarea id="sentenceId"></textarea>
+				<textarea id="sentenceConstruction"></textarea>
+				<textarea id="sentenceTranslation"></textarea>
+				<textarea id="sentenceSpelling"></textarea>
+				<textarea id="sentenceProps"></textarea>
+				<textarea id="sentenceTranslationsJson"></textarea>
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<textarea readonly id="getSaveJsonArea"></textarea>
+			</td>
+			<td>
+				<textarea id="setSaveJsonArea"></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<button id="getSaveJSON">Get save JSON</button>
+			</td>
+			<td>
+				<button id="setSaveJSON">Set save JSON</button>
+				<input id="saveAddress"></input>
+				<button id="saveJSONtoAddress">Save JSON to Address</button>
+				<button id="loadJSONfromAddress">Load JSON from Address</button>
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<input id="commandLine"></input>
+				<textarea id="commandResult"></textarea>
+			</td>
+		</tr>
+	</table>
+
+	<script src="index.js"></script>
+
+</body>
+</html>
