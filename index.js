@@ -212,7 +212,7 @@ var updateWordsInfo=function()
 		return
 	for(var k in saveObject["words"])
 		if(saveObject["words"][k].text!="?"&&saveObject["words"][k].construction!="?"&&saveObject["words"][k].systematicallyConstruction!="?")
-			for(var l=-1, word, wordsByMask=saveObject["words"][k].type=="systematically"?getWordsByMask(saveObject["words"][k]):[];l<wordsByMask.length;l++)
+			for(var l=-1, word, wordsByMask=saveObject["words"][k].type=="systematically"?getWordsByMask(saveObject["words"][k]):[];l<0+wordsByMask.length;l++)
 				if(!wordsInfo[(word=genWordInfo(l==-1?saveObject["words"][k]:wordsByMask[l])).id])
 					for(var v in (wordsInfo[word.id]=word))
 					{
