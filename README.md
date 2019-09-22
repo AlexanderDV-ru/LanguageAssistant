@@ -1,0 +1,2 @@
+# LanguageAssistant
+This is a program created to simplify the process of creating a new language with new words. User can create a simple word; a word, constructed of simple words; and word, systematically constructed by pattern.
