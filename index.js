@@ -1,11 +1,42 @@
+//--- Name: LanguageAssistant/Vesion: 0.2.8a/Authors: AlexanderDV/Description: Main LanguageAssistant file. ---
+// --- Start of standard initialization
+// Program info
+var programInfo={
+	"packet" : "languageAssistant",
+	"name" : "Language Assistant",
+	"version" : "0.2.8a",
+	"authors" : "AlexanderDV"
+}
+programInfo.title= programInfo.name + " v" + programInfo.version + " by " + programInfo.authors
+document.title=programInfo.title
+// Universal local storage initialization
+var storage = window.localStorage
+// Default properties
+var defaultProperties = {
+}
+// Properties from default properties
+var props = makeClone(defaultProperties)
+// Messages value-by-key for different languages
+var msgs={
+	"en":{
+	},
+	"ru":{
+	}
+}
+// Messages language initialization by default value
+var messagesLanguage='ru'
+// Function for getting message by key
+var getMsg=function(key, lang)
+{
+	return msgs[lang||messagesLanguage][key]
+}
+// End of standard initialization ---
+
 //Init objects
 var saveObject = {}
 var wordPropsPattern={"partOfSpeech":"","gender":"","group":""}, wordInfoPattern={"id":"","construction":"","texts":"","text":"","spelling":"","translations":"","translationsJson":"","translation":"","props":""}
 var wordsInfo={}, wordsInfoIdsBy={}, wordsByMasks={}
 var genWordInfo_1,genWordInfo_2,genWordInfo_3,genWordInfo_4_1,genWordInfo_4
-
-//Get objects
-var storage = window.localStorage
 
 //Help functions
 var fromUpperCase=function(str)
@@ -374,18 +405,18 @@ setSaveJSON.onclick=function(e)
 saveJSONtoAddress.onclick=function(e)
 {
 	getSaveJSON.onclick()
-	storage["languageAssistant.saveJSON."+saveAddress.value]=getSaveJsonArea.value
-	storage["languageAssistant.lastSaveJSONaddress"]=saveAddress.value
+	storage[programInfo.packet+".saveJSON."+saveAddress.value]=getSaveJsonArea.value
+	storage[programInfo.packet+".lastSaveJSONaddress"]=saveAddress.value
 }
 loadJSONfromAddress.onclick=function(e)
 {
-	setSaveJsonArea.value=storage["languageAssistant.saveJSON."+saveAddress.value]
-	storage["languageAssistant.lastSaveJSONaddress"]=saveAddress.value
+	setSaveJsonArea.value=storage[programInfo.packet+".saveJSON."+saveAddress.value]
+	storage[programInfo.packet+".lastSaveJSONaddress"]=saveAddress.value
 	setSaveJSON.onclick()
 }
 
 //Load data
-saveAddress.value=storage["languageAssistant.lastSaveJSONaddress"]
+saveAddress.value=storage[programInfo.packet+".lastSaveJSONaddress"]
 loadJSONfromAddress.onclick()
 //
 if(!saveObject.words)
